@@ -18,12 +18,12 @@ const Header = () => {
       link: "/about",
     },
     {
-      name: "Services",
-      link: "/services",
+      name: "Products",
+      link: "/products",
     },
     {
-      name: "Portfolio",
-      link: "/portfolio",
+      name: "Pokemons",
+      link: "/pokemons",
     },
     {
       name: "Contact",

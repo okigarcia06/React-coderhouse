@@ -10,7 +10,7 @@ function App() {
       <Router>
         <div className="w-full min-h-screen bg-gray-950">
           <Header />
-          <Greetings greeting="¡Bienvenido a mi aplicación!" />
+          <Greetings greeting="¡Bienvenido a mi Página Web" />
         </div>
       </Router>
     </>
