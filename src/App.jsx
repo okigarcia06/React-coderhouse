@@ -1,6 +1,8 @@
-import { useState } from "react";
+//import { useState } from "react";
 import Header from "./components/Header/Header";
 import { BrowserRouter as Router } from "react-router-dom";
+import Greetings from "./components/Greetings/Greetings";
+
 
 function App() {
   return (
@@ -8,6 +10,7 @@ function App() {
       <Router>
         <div className="w-full min-h-screen bg-gray-950">
           <Header />
+          <Greetings greeting="¡Bienvenido a mi aplicación!" />
         </div>
       </Router>
     </>
