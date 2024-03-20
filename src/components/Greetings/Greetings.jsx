@@ -7,7 +7,6 @@ const Greetings = ({ greeting }) => {
         </div>
     );
 }
-
 export default Greetings;
 
 

@@ -12,5 +12,4 @@ const Cart = ({ itemCount }) => {
         </div>
     );
 };
-
 export default Cart;
