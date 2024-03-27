@@ -1,5 +1,5 @@
 //import { useState } from "react";
-import Header from "./components/Header/Header";
+import Header from "./components/NavBar/NavBar";
 import { BrowserRouter as Router } from "react-router-dom";
 import Greetings from "./components/Greetings/Greetings";
 // import itemListContainer from "./components/itemListContainer/itemListContainer";
