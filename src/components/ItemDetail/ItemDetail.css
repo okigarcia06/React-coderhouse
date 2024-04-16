@@ -1,0 +1,123 @@
+/* Estilos generales */
+
+.item-detail {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    margin: 0 auto;
+    max-width: 800px;
+}
+
+/* Imagen */
+
+.imagen-detallada {
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+    height: 500px;
+}
+
+/* Título */
+
+.nombre-detallado {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* Descripción */
+
+.descripcion-detallada {
+    margin-top: 10px;
+    text-align: justify;
+}
+
+/* Precio */
+
+.precio-detallado {
+    margin-top: 10px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+/* Contador de producto */
+
+.contador-producto {
+    margin-top: 20px;
+}
+
+/* Botones */
+
+.boton-agregar {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+.boton-seguir-comprando {
+    background-color: #fff;
+    color: #4CAF50;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: 1px solid #4CAF50;
+    cursor: pointer;
+}
+
+  /* Links */
+
+.link-carrito,
+.link-seguir-comprando {
+    text-decoration: none;
+    margin: 10px;
+}
+
+.link-carrito {
+    color: #4CAF50;
+}
+
+.link-seguir-comprando {
+    color: #000;
+}
+
+.enlaces {
+    display: flex;
+    justify-content: space-between;
+}
+
+.link-carrito,
+.link-seguir-comprando {
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    transition: all 0.2s ease-in-out;
+}
+
+.link-carrito {
+    background-color: #4CAF50;
+    color: #fff;
+}
+
+.link-carrito:hover {
+    background-color: #339933;
+}
+
+.link-seguir-comprando {
+    background-color: #fff;
+    color: #4CAF50;
+    border: 1px solid #4CAF50;
+}
+
+.link-seguir-comprando:hover {
+    background-color: #e6f2ff;
+}
+
+.enlaces li {
+    list-style-type: none;
+}

@@ -1,8 +1,5 @@
-# React + Vite
+# Stardew Valley E-commerce
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+`React` `Css` `Bootsrap` `JavaScript`
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Este proyecto es un ecommerce de productos relacionados con el campo y está basado en el juego Stardew Valley, un simulador de granjas, que te permite tener categorías de productos organizados por estaciones del año,también cuenta con un carrito para que el usuario pueda interactuar con los productos seleccionados, igualmente cuenta con un checkout y que el usuario pueda registrar su información personal y así su información sea guardada en una base de datos.

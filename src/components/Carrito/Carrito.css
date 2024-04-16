@@ -1,0 +1,79 @@
+
+/* Estilos generales */
+
+.carrito {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    margin: 0 auto;
+    max-width: 800px;
+}
+
+.carrito h2 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+/* Lista de productos */
+
+.carrito ul {
+    list-style: none;
+    padding: 0;
+}
+
+.carrito li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.carrito li img {
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+}
+
+.carrito li p {
+    margin: 0 5px;
+}
+
+.carrito li button {
+    background-color: #ff0000;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+  /* Sección de total y precio */
+
+.carrito div {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.carrito div p {
+    margin: 0;
+    font-weight: bold;
+}
+
+.carrito div button {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+.carrito a {
+    text-decoration: none;
+    color: #4CAF50;
+    font-weight: bold;
+    margin-left: 10px;
+}
